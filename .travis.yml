@@ -2,3 +2,4 @@ arch: ppc64le
 script:
 - ls
 - uptime
+- ip a
