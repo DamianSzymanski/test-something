@@ -3,3 +3,4 @@ script:
 - ls
 - uptime
 - ip a
+- cat /etc/docker/daemon.json
