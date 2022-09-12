@@ -5,5 +5,5 @@ script:
 - uptime
 - ip a
 - cat /etc/docker/daemon.json
-- service restart docker
+- sudo service restart docker
 - ip a
