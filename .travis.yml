@@ -1,5 +1,6 @@
 arch: ppc64le
 dist: bionic
+service: docker
 script:
 - ls
 - uptime
