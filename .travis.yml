@@ -8,4 +8,4 @@ script:
 - cat /etc/docker/daemon.json
 - sudo systemctl restart docker
 - ip a
-- sudo grep -r DOCKER_OPTS /etc/*
+- sudo cat /etc/default/docker
