@@ -1,4 +1,4 @@
-arch: s390x
+arch: ppc64le
 dist: bionic
 #service: docker
 script:
